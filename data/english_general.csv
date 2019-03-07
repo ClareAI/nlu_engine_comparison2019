@@ -1,0 +1,283 @@
+﻿Name,Question,Tag,Answer,Language,Active
+Billing,Bill adjustment,,User wants a discount on a bill due to poor service or an invalid charge,en-us,True
+Billing,Bill adjustment,Can I get adjustment on my bill?,,en-us,True
+Billing,Bill adjustment,I would like to get a discount on my bill,,en-us,True
+Billing,Bill adjustment,"Due to poor service, is it possible for me to get a discount on my bill?",,en-us,True
+Billing,Bill adjustment,I noticed an invalid charge. I would like to get a discount,,en-us,True
+Billing,Bill dispute,,User wants to dispute a charge on a bill,en-us,True
+Billing,Bill dispute,There is an error charge in my bill,,en-us,True
+Billing,Bill dispute,I would like to dispute charge on the bill,,en-us,True
+Billing,Bill dispute,How can I dispute charge on the bill?,,en-us,True
+Billing,Bill explanation,,Questions about line item charges on a bill,en-us,True
+Billing,Bill explanation,Can you explain to me the line item charges on a bill?,,en-us,True
+Billing,Bill explanation,I want to know the line item charges on my bill,,en-us,True
+Billing,Billing cycle,,"Questions or requests about the frequency, or start and end dates of a user's billing cycle",en-us,True
+Billing,Billing cycle,I want to know about the billing cycle,,en-us,True
+Billing,Billing cycle,When is the starting date of a billing cycle?,,en-us,True
+Billing,Billing cycle,When is the end date of a billing cycle?,,en-us,True
+Billing,General billing,,"Questions about a bill, such as usage amount or fees",en-us,True
+Billing,General billing,I want to know about the usage amount of my bill,,en-us,True
+Billing,General billing,I would like to ask about general billing questions,,en-us,True
+Billing,One-time charge explanation,,User wants an explanation of a specific charge on a bill,en-us,True
+Billing,One-time charge explanation,Can you tell me about the specific charge on the bill?,,en-us,True
+Billing,One-time charge explanation,I want to know about the specific charge on my bill,,en-us,True
+Billing,Online bill statements,,"User wants to see an online statement, or switch to online statements only",en-us,True
+Billing,Online bill statements,Where can I see the online billing statement?,,en-us,True
+Billing,Online bill statements,When can I see the online billing statement?,,en-us,True
+Billing,Online bill statements,How to see the online statement?,,en-us,True
+Billing,Online bill statements,"Can I just get the online statement, without the paper bill statement?",,en-us,True
+Billing,Online bill statements,How to set up to only receive online statement?,,en-us,True
+Billing,Paper bill statements,,Questions about hard copies of bills for an account,en-us,True
+Billing,Paper bill statements,Can I get the hard copy for my bill?,,en-us,True
+Billing,Paper bill statements,When will I get the paper bill statement?,,en-us,True
+Billing,Paper bill statements,How to get paper bill statement?,,en-us,True
+Billing,Paper bill statements,I want to get the hard copy of my bill statement,,en-us,True
+Billing,Payment reminders,,"Questions about payment reminders, such as what they are, and how to set them up or stop them",en-us,True
+Billing,Payment reminders,What is payment reminder?,,en-us,True
+Billing,Payment reminders,How can I get payment reminder?,,en-us,True
+Billing,Payment reminders,I want to inactive the payment reminder,,en-us,True
+Billing,Payment reminders,When will I get the reminder of my payment?,,en-us,True
+Billing,Payment reminders,Where to apply for payment reminder?,,en-us,True
+Billing,Recurring charges,,"Questions about recurring charges on a bill, such as unlimited texting, visual voicemail, or family plan charges",en-us,True
+Billing,Recurring charges,I got a recurring charges on a bill,,en-us,True
+Billing,Recurring charges,What is visual voicemail?,,en-us,True
+Billing,Recurring charges,I want to know about unlimited texting,,en-us,True
+Billing,Recurring charges,Can you explain me about family plan charges?,,en-us,True
+Billing,Request bill copy,,User wants a copy of a bill for the current or previous billing period,en-us,True
+Billing,Request bill copy,I want a copy of the previous billing period,,en-us,True
+Billing,Request bill copy,I want a copy of the current billing period,,en-us,True
+Billing,Request bill copy,Can I have the copy of my bill?,,en-us,True
+Billing,Request bill copy,I want to request a bill copy,,en-us,True
+Complaints,customer complaint,,User has an issue with a device or service,en-us,True
+Complaints,customer complaint,I want to make a complaint,,en-us,True
+Complaints,customer complaint,I have an issue with a device,,en-us,True
+Complaints,customer complaint,The service is bad,,en-us,True
+Complaints,customer complaint,How can I make a complaint?,,en-us,True
+Complaints,customer complaint,Where to make complaint?,,en-us,True
+Help,Ending,,Parting words used to end the conversation,en-us,True
+Help,Ending,Thank you for your help,,en-us,True
+Help,Ending,Thank you,,en-us,True
+Help,Ending,Thanks,,en-us,True
+Help,Greetings,,Greeting used to engage the user in conversation,en-us,True
+Help,Greetings,Hi,,en-us,True
+Help,Greetings,Hello,,en-us,True
+Help,Greetings,Good morning,,en-us,True
+Help,Greetings,Good afternoon,,en-us,True
+Help,Greetings,Good evening,,en-us,True
+Help,Greetings,Good morning,,en-us,True
+Help,Greetings,Good afternoon,,en-us,True
+Help,Greetings,Good evening,,en-us,True
+Help,Greetings,Good evening,,en-us,True
+Help,Greetings,who are you,,en-us,True
+Help,Help,,Questions about what options are available when using the virtual agent,en-us,True
+Help,Help,What services are there in the virtual agent?,,en-us,True
+Help,Help,Can you tell me what options are available in the virtual agent?,,en-us,True
+Help,Security assurance,,User wants assurance that any information they provide in the chat is protected and secure,en-us,True
+Help,Security assurance,Is my information secured?,,en-us,True
+Help,Security assurance,How can I assure that information I give is protected?,,en-us,True
+Help,Security assurance,I am worried about the safety of my personal information,,en-us,True
+Help,System information,,Questions about the virtual agent technology that they are interacting with,en-us,True
+Help,System information,What is virtual agent technology?,,en-us,True
+Help,System information,How can I contact my virtual agent?,,en-us,True
+Help,System information,Where can I find the virtual agent technology?,,en-us,True
+Help,System information,When can I talk to the virtual agent technology?,,en-us,True
+Help,System information,I want to ask questions about virtual agent that I am interacting with,,en-us,True
+About us,Available products,,User wants to know what products are available for purchase,en-us,True
+About us,Available products,I want to know the availability of a product,,en-us,True
+About us,Available products,I want to know which products are available now,,en-us,True
+About us,Available products,I want to buy a product. What are available?,,en-us,True
+About us,Available products,Where can I see product availability?,,en-us,True
+About us,Contact us,,User wants company contact information,en-us,True
+About us,Contact us,How can I contact the company?,,en-us,True
+About us,Contact us,Can you provide me with contact number of the company?,,en-us,True
+About us,Find nearest store,,User wants to find the nearest store location,en-us,True
+About us,Find nearest store,I want to know the nearest store from my home,,en-us,True
+About us,Find nearest store,Can you tell me the nearest store from my home?,,en-us,True
+About us,General information,,User wants information about the company that is not handled by another intent,en-us,True
+About us,General information,I would like to know more about the company,,en-us,True
+About us,General information,Can you tell me more about the company?,,en-us,True
+About us,Job openings,,User wants to know about jobs opportunities,en-us,True
+About us,Job openings,I want to know about job vacancies here,,en-us,True
+About us,Job openings,Can you tell me about some job opportunities?,,en-us,True
+About us,Job openings,Is there any job openings now?,,en-us,True
+About us,Job openings,Where can I find career opportunities?,,en-us,True
+About us,Make appointment,,User wants to schedule an appointment without specifying a location,en-us,True
+About us,Make appointment,I want to make an appointment,,en-us,True
+About us,Reschedule appointment,,User wants to reschedule an appointment,en-us,True
+About us,Reschedule appointment,I want to reschedule an appointment,,en-us,True
+About us,Reschedule appointment,How can I reschedule an appointment?,,en-us,True
+About us,Reschedule appointment,Is it possible to reschedule an appointment?,,en-us,True
+About us,Store hours,,Questions about store business hours,en-us,True
+About us,Store hours,What time does the store open?,,en-us,True
+About us,Store hours,What time does the store close?,,en-us,True
+About us,Store hours,Can you tell me the business hour of the store?,,en-us,True
+About us,Store location,,Questions about store locations,en-us,True
+About us,Store location,Where are the stores located?,,en-us,True
+About us,Store location,Where can I find the stores?,,en-us,True
+About us,Store location,Can you tell me the locations of some stores?,,en-us,True
+About us,Store phone number,,Questions about store phone numbers,en-us,True
+About us,Store phone number,I want to know about the phone number of the store,,en-us,True
+About us,Store phone number,Can you tell me the phone number of the store?,,en-us,True
+About us,Store services,,User wants to know about the services that are provided at store locations,en-us,True
+About us,Store services,Are the services different across stores in different locations?,,en-us,True
+About us,Store services,What services are there in the store?,,en-us,True
+Off Topic,None of the above,,Requests or questions that are not relevant to the service,en-us,True
+Off Topic,None of the above,I want to ask something not in the options above,,en-us,True
+Off Topic,None of the above,I want to ask other questions,,en-us,True
+Online account access,Online account access,,User has a question or issue about accesssing an account online,en-us,True
+Online account access,Online account access,How can I access my account online?,,en-us,True
+Online account access,Online account access,Where to access account online?,,en-us,True
+Online account access,Online account access,I have a question abour accessing an account online,,en-us,True
+Online account access,Online account access,i want to check my account balance,,en-us,True
+Online account access,Password and username recovery,,User forgot the login details.,en-us,True
+Accepted methods of payment,Bank information,,User wants to provide the bank information associated with their credit account,en-us,True
+Accepted methods of payment,Bank information,I want to give some information for my credit account,,en-us,True
+Accepted methods of payment,Bank information,Should I provide you with some information for my credit account?,,en-us,True
+Accepted methods of payment,Change payment due date,,User wants to change the date that future payments are due,en-us,True
+Accepted methods of payment,Defer payment,,User wants to delay the payment due date for a current bill,en-us,True
+Accepted methods of payment,Defer payment,Can I change the payment due date?,,en-us,True
+Accepted methods of payment,Defer payment,I will have to delay my payment. Can I change the due date for the current bill?,,en-us,True
+Accepted methods of payment,Defer payment,I want to hold up the payment,,en-us,True
+Accepted methods of payment,General payment,,"Questions about payments, including payment scheduling and processing status",en-us,True
+Accepted methods of payment,General payment,I want to know the status of my payment,,en-us,True
+Accepted methods of payment,General payment,Can I schedule my payment?,,en-us,True
+Accepted methods of payment,Late fees,,User wants to know about late fees,en-us,True
+Accepted methods of payment,Late fees,Is there any additional charge for late payment?,,en-us,True
+Accepted methods of payment,Late fees,I pay the bill late,,en-us,True
+Accepted methods of payment,Late fees,Will I get charge if I pay the bill late?,,en-us,True
+Accepted methods of payment,Make a payment,,User wants to make a payment,en-us,True
+Accepted methods of payment,Make a payment,I want to make a payment,,en-us,True
+Accepted methods of payment,Make a payment,How can I make a payment?,,en-us,True
+Accepted methods of payment,Make a payment,Where can I make payment?,,en-us,True
+Accepted methods of payment,Make a payment,When can I pay the bill?,,en-us,True
+Accepted methods of payment,Method of payment update,,"User wants to change the payment details (the credit card to charge, for example) on the account",en-us,True
+Accepted methods of payment,Method of payment update,I want to change the payment method,,en-us,True
+Accepted methods of payment,Method of payment update,Can I change the way I pay?,,en-us,True
+Accepted methods of payment,Missing or misapplied payment,,"Questions about a payment that is missing, didn't go through, or was rejected",en-us,True
+Accepted methods of payment,Missing or misapplied payment,My payment was rejected,,en-us,True
+Accepted methods of payment,Missing or misapplied payment,I think my payment is missing,,en-us,True
+Accepted methods of payment,Missing or misapplied payment,What should I do if my payment was rejected?,,en-us,True
+Accepted methods of payment,Missing or misapplied payment,Why is my payment rejected?,,en-us,True
+Accepted methods of payment,Payment arrangements,,User wants to make payments over time,en-us,True
+Accepted methods of payment,Payment arrangements,I want to make payments for a specific period,,en-us,True
+Accepted methods of payment,Payment arrangements,Is it possible to make payments over time?,,en-us,True
+Accepted methods of payment,Payment due date,,Questions about when the next payment is due,en-us,True
+Accepted methods of payment,Payment due date,When is the next payment due date?,,en-us,True
+Accepted methods of payment,Payment due date,I want to know the due date for the next payment,,en-us,True
+Accepted methods of payment,Payment due date,When is the last day of the next payment?,,en-us,True
+Accepted methods of payment,Payment history,,User has general questions about past payments,en-us,True
+Accepted methods of payment,Payment history,Can I see the history of my payment?,,en-us,True
+Accepted methods of payment,Payment history,Can I get the summary of my previous payment?,,en-us,True
+Accepted methods of payment,Payment history,I want to know about my past payment,,en-us,True
+Accepted methods of payment,Payment history,,User has general questions about past payments,en-us,True
+Accepted methods of payment,Payment history,I have some questions about past payments,,en-us,True
+Accepted methods of payment,Payment history,Can you tell me about my past payments?,,en-us,True
+Accepted methods of payment,Payment history,Can I see my past payments?,,en-us,True
+Accepted methods of payment,Payment installments,,Questions about paying a bill in installments,en-us,True
+Accepted methods of payment,Payment installments,What is installment payment?,,en-us,True
+Accepted methods of payment,Payment installments,I want to make installment payment,,en-us,True
+Accepted methods of payment,Payment installments,Where can I apply for installment payment?,,en-us,True
+Accepted methods of payment,Payment installments,I want to divide my payment,,en-us,True
+Accepted methods of payment,Payment locations,,User wants to make a payment at a store,en-us,True
+Accepted methods of payment,Payment locations,Can I make payment at the store?,,en-us,True
+Accepted methods of payment,Payment locations,In which branches I can make payment?,,en-us,True
+Accepted methods of payment,Payment locations,I would like to make a payment directly,,en-us,True
+Accepted methods of payment,Payment research,,User has general questions about past payments,en-us,True
+Accepted methods of payment,Payment verification,,User wants confirmation that a payment was received,en-us,True
+Accepted methods of payment,Payment verification,I want to confirm that my payment is received,,en-us,True
+Accepted methods of payment,Payment verification,Can you help me to see if my payment has been received?,,en-us,True
+Accepted methods of payment,Payment verification,Where can I check whether my payment is received or not,,en-us,True
+Accepted methods of payment,Payment verification,How do I know if my payment has been received?,,en-us,True
+Accepted methods of payment,Recurring payments (autopay),,User wants to start making automatic recurring payments,en-us,True
+Accepted methods of payment,Recurring payments (autopay),I want my payment to be automatic,,en-us,True
+Accepted methods of payment,Recurring payments (autopay),How to set automatic recurring payment?,,en-us,True
+Accepted methods of payment,Recurring payments (autopay),Where can I set the payment to be automatic?,,en-us,True
+Accepted methods of payment,Refund,,User wants a refund for a payment,en-us,True
+Accepted methods of payment,Refund,I want to refund a payment,,en-us,True
+Accepted methods of payment,Refund,I would like to get my money back,,en-us,True
+Accepted methods of payment,Refund,Where should I go to get the payment refunded?,,en-us,True
+Accepted methods of payment,Refund,How to get payment refund?,,en-us,True
+Accepted methods of payment,Refund,When will I get my money back?,,en-us,True
+Account Management,Account privileges,,User wants to know what potential products or services are available to them based on their account,en-us,True
+Account Management,Account privileges,What services are available for me?,,en-us,True
+Account Management,Account privileges,Does my account have some service benefits?,,en-us,True
+Account Management,Account privileges,What products can I buy from my account?,,en-us,True
+Account Management,Authorized users,,User wants to change who has access to an account,en-us,True
+Account Management,Authorized users,I want to change the authorized person to my account,,en-us,True
+Account Management,Authorized users,How to change a person who has access to my account?,,en-us,True
+Account Management,Billing address inquiry,,User wants to know the billing address on an account,en-us,True
+Account Management,Billing address inquiry,Can you check where is my billing address?,,en-us,True
+Account Management,Billing address inquiry,Can I know the billing address of my account?,,en-us,True
+Account Management,Cancel account,,User wants to cancel or close an account,en-us,True
+Account Management,Cancel account,I want to close an account,,en-us,True
+Account Management,Cancel account,How can I close an account?,,en-us,True
+Account Management,Customer account number,,Questions about a user's account number,en-us,True
+Account Management,Customer account number,I want to know my account number,,en-us,True
+Account Management,Customer account number,How can I know my account number?,,en-us,True
+Account Management,Customer loyalty program,,User wants to learn about customer loyalty programs,en-us,True
+Account Management,Customer profile,,Questions about a user's account details,en-us,True
+Account Management,Fraudulent use,,User wants to investigate or report the fraudulent use of a card or account,en-us,True
+Account Management,General account management,,"General account questions, such as how to add users or cancel an account",en-us,True
+Account Management,General account management,How can I add someone to my account?,,en-us,True
+Account Management,General account management,How to cancel an account?,,en-us,True
+Account Management,Loyalty status,,User wants to know about their customer loyalty program status or eligibility,en-us,True
+Account Management,Loyalty status,What is customer loyalty program?,,en-us,True
+Account Management,Loyalty status,Am I eligible for customer loyalty program?,,en-us,True
+Account Management,Loyalty status,I want to know the status of my loyalty program,,en-us,True
+Account Management,Open account,,User wants to open an account,en-us,True
+Account Management,Open account,I want to open an account,,en-us,True
+Account Management,Open account,How can I open a new account?,,en-us,True
+Account Management,Open account,Can you tell me what do I need to open an account?,,en-us,True
+Account Management,Points value,,User wants to know how much value their points are worth,en-us,True
+Account Management,Points value,I want to know how much is my points?,,en-us,True
+Account Management,Points value,How much can I get from my points?,,en-us,True
+Account Management,Points value,Can you check how much is my points to dollars?,,en-us,True
+Account Management,Profile password inquiry,,User wants to retrieve or change the password that is associated with the account,en-us,True
+Account Management,Profile password inquiry,I want to change my password account,,en-us,True
+Account Management,Profile password inquiry,How to change the password of my account?,,en-us,True
+Account Management,Profile security questions,,User wants to review or change the security questions that are associated with the account,en-us,True
+Account Management,Profile security questions,I want to change the security questions of my account,,en-us,True
+Account Management,Profile security questions,How can I change my account security questions?,,en-us,True
+Account Management,Profile security questions,Is it possible to change security questions of the account?,,en-us,True
+Account Management,Redeem points,,User wants to redeem points to make a purchase or redeem their value,en-us,True
+Account Management,Redeem points,I want to redeem points,,en-us,True
+Account Management,Redeem points,How can I redeem points?,,en-us,True
+Account Management,Redeem points,Where can I redeem points?,,en-us,True
+Account Management,Transfer points,,User wants to transfer points between accounts,en-us,True
+Account Management,Transfer points,Can I transfer points to my other accounts?,,en-us,True
+Account Management,Transfer points,I want to move points to other account,,en-us,True
+Account Management,Transfer points,Is it possible to transfer points between accounts?,,en-us,True
+Account Management,Update address,,User wants to change the billing or mailing address on the account,en-us,True
+Account Management,Update address,I want to change my home address,,en-us,True
+Account Management,Update address,Can you change my home address?,,en-us,True
+Account Management,Update contact phone number,,User wants to change the phone number on the account that is used to contact them,en-us,True
+Account Management,Update contact phone number,I want to change my phone number,,en-us,True
+Account Management,Update contact phone number,How can I update my phone number?,,en-us,True
+Account Management,Update contact phone number,I have a new phone number,,en-us,True
+Account Management,Update contact phone number,I have a new phone number,,en-us,True
+Account Management,Update email,,User wants to change the contact email address on the account,en-us,True
+Account Management,Update email,I want to change my email address,,en-us,True
+Account Management,Update email,I want to update my email,,en-us,True
+Account Management,Update email,How can I change my email address?,,en-us,True
+Take Leave,I want to take leave,,user wants to take leave,en-us,True
+Take Leave,I want to take leave,I want to take leave,,en-us,True
+Take Leave,I want to take leave,I want to schedule a leave,,en-us,True
+Take Leave,I want to take leave,"Yes, i want to take leave",,en-us,True
+Take Leave,I want to take leave,take leave,,en-us,True
+Check Balance,I want to check leave balance,,user wants to check leave balance,en-us,True
+Check Balance,I want to check leave balance,I want to check balance,,en-us,True
+Check Balance,I want to check leave balance,Just check balance,,en-us,True
+Check Balance,I want to check leave balance,Check leave balance,,en-us,True
+Check Balance,I want to check leave balance,I want to check leave balance,,en-us,True
+Check Balance,I want to check leave balance,I want to know the remaining leave I have,,en-us,True
+Check Balance,I want to check leave balance,"Yes, i want to check my balance",,en-us,True
+Check Balance,I want to check leave balance,check balance,,en-us,True
+Delivery,Delivery charges,,User wants to know the delivery charges for orders,en-us,True
+Delivery,Delivery is overdue,,"User has not yet received the delivery, although the stated delivery time has passed.",en-us,True
+Delivery,Duration of delivery,,User wants to know how long the delivery will take,en-us,True
+Delivery,Shipment tracking,,User wants to track his shipment,en-us,True
+Credit and Debit Cards,How can I make payments to my card account?,,,en-us,True
+Credit and Debit Cards,How long does it take to apply for a credit or debit card?,,,en-us,True
+Credit and Debit Cards,Report that my card has been lost or stolen,,,en-us,True
+Credit and Debit Cards,Report that my card has been lost or stolen,I have lost my credit card,,en-us,True
+Credit and Debit Cards,Report that my card has been lost or stolen,my cards have been stolen,,en-us,True
